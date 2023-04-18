@@ -1,4 +1,4 @@
-# Odoo-S3-Bukcet-Backup
+# Odoo-S3-Bucket-Backup
 
 # Odoo Sales Backup to AWS S3
 
